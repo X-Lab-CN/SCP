@@ -1,4 +1,4 @@
-# 💊 Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking
+# 💊 SCP
 
 This repository provides the implementation details for **SCP** and **POSD** to evaluate the vulnerability of large language models (LLMs) to content generation attacks. We also include comprehensive experimental results for various models to demonstrate the effectiveness of our approach.
 
